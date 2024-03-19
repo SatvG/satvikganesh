@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.radial-blue
+{
+    background: radial-gradient(lightyellow, skyblue);
+}
+
+.cus-width
+{
+    width: 100%;
+}
+
+.cus-height
+{
+    height: 80vh;
+}
